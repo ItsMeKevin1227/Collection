@@ -6,26 +6,29 @@ const dictionary = {
   en: {
     messages: {
       email: () => 'INVALID EMAIL',
-      required: field => `${field} CAN NOT BE EMPTY`,
+      required: field => `${field} CANNOT BE EMPTY`,
       min: () => 'MINIMUM 8 CHARACTERS',
     },
     attributes: {
+      // 帳戶
       email: 'Account',
       password: 'Password',
       confirmPsw: 'Confirm Password',
+      // 資訊
       phone: 'Phone',
       name: 'Name',
+      address: 'Address',
+      // 圖片
+      // 信用卡
+      bankName: 'Bank Name',
+      card: 'Card',
+      cardMonth: 'Card Month',
+      cardName: 'Card Name',
+      cardYear: 'Card Year',
+      cvv: 'CVV',
     },
   },
 };
 
 Validator.localize(dictionary);
-
-Validator.extend('phone', {
-  messages: {
-    en: field => `${field}必須是11位手機號碼`,
-  },
-  validate: value => value.length === 11 && /^((13|14|15|17|18)[0-9]{1}\d{8})$/.test(value),
-});
-
 Vue.use(VeeValidate);
