@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "Title": "Week1 - Todo List",
+    "Demo": "https://bit.ly/2Nj3FWN",
+    "Design": "https://bit.ly/2HfaR2M",
+    "FinishDate": "2018/6/7",
+    "Github": "https://github.com/ItsMeKevin1227/TheF2E/tree/master/01TodoList",
+    "SkillTag": ["Pug", "Scss", "Vue.js"],
+    "IsFinish": true,
+    "BgImg": "./img/01TodoList.png"
+  },
+  {
+    "ID": 2,
+    "Title": "Week2 - Filter",
+    "Demo": "https://bit.ly/2zHpcX1",
+    "Design": "https://bit.ly/2xWPXWN",
+    "FinishDate": "2018/6/14",
+    "Github": "https://github.com/ItsMeKevin1227/TheF2E/tree/master/02Filter",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "Vuex"],
+    "IsFinish": true,
+    "BgImg": "./img/02filter.png"
+  },
+  {
+    "ID": 3,
+    "Title": "Week3 - Admin Order",
+    "Demo": "https://bit.ly/2KYah06",
+    "Design": "http://bit.ly/2tdOhm9",
+    "FinishDate": "2018/6/22",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/03AdminOrder",
+    "SkillTag": ["Pug", "Scss", "Vue.js", "Vue-Router", "V-charts"],
+    "IsFinish": true,
+    "BgImg": "./img/03AdminOrder.png"
+  },
+  {
+    "ID": 4,
+    "Title": "Week4 - Product Gallery",
+    "Demo": "https://bit.ly/2JpCyah ",
+    "Design": "http://bit.ly/2lxMFQC",
+    "FinishDate": "2018/7/1",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/04ProductGall",
+    "SkillTag": ["Scss"],
+    "IsFinish": true,
+    "BgImg": "./img/04ProductGallery.png"
+  },
+  {
+    "ID": 5,
+    "Title": "Week5 - ComicViewer",
+    "Demo": "https://bit.ly/2LbvNxE",
+    "Design": "http://bit.ly/2KBBjWF",
+    "FinishDate": "2018/7/15",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/05ComicViewer",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router"],
+    "IsFinish": true,
+    "BgImg": "./img/05comic.png"
+  },
+  {
+    "ID": 6,
+    "Title": "Week6 - Form Validation",
+    "Demo": "https://bit.ly/2NS9N9q",
+    "Design": "http://bit.ly/2udrg3l",
+    "FinishDate": "2018/7/13",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/06Validation",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "vee-validate"],
+    "IsFinish": true,
+    "BgImg": "./img/06validation.png"
+  },
+  {
+    "ID": 7,
+    "Title": "Week7 - CanvasGame",
+    "Demo": "",
+    "Design": "https://hackmd.io/N5yEjm2vSx6D41qAbJGDmw",
+    "FinishDate": "",
+    "Github": "",
+    "SkillTag": "",
+    "IsFinish": false
+  },
+  {
+    "ID": 8,
+    "Title": "Week8",
+    "Demo": "",
+    "Design": "",
+    "FinishDate": "",
+    "Github": "",
+    "SkillTag": "",
+    "IsFinish": false
+  },
+  {
+    "ID": 9,
+    "Title": "Week9",
+    "Demo": "",
+    "Design": "",
+    "FinishDate": "",
+    "Github": "",
+    "SkillTag": "",
+    "IsFinish": false
+  }
+]
