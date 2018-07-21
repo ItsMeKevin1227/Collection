@@ -72,12 +72,13 @@
   {
     "ID": 7,
     "Title": "Week7 - CanvasGame",
-    "Demo": "",
+    "Demo": "http://itsmekevin1227.nctu.me/07_F2E_CanvasGame/",
     "Design": "https://hackmd.io/N5yEjm2vSx6D41qAbJGDmw",
-    "FinishDate": "",
-    "Github": "",
-    "SkillTag": "",
-    "IsFinish": false
+    "FinishDate": "2018/07/21",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/07CanvasGame",
+    "SkillTag": ["Phaser.js", "Canvas"],
+    "IsFinish": true
   },
   {
     "ID": 8,
