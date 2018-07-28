@@ -83,13 +83,15 @@
   },
   {
     "ID": 8,
-    "Title": "Week8",
-    "Demo": "",
-    "Design": "",
-    "FinishDate": "",
-    "Github": "",
-    "SkillTag": "",
-    "IsFinish": false
+    "Title": "Week8 - ParallaxScrolling",
+    "Demo": "https://bit.ly/2Adj49k",
+    "Design": "http://bit.ly/2uX1m47",
+    "FinishDate": "2018/07/28",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/08ParallaxScrolling",
+    "SkillTag": ["Vue.js", "Vue-Router", "TweenMax", "TweenLineMax"],
+    "IsFinish": true,
+    "BgImg": "./img/08ParallaxScrolling.png"
   },
   {
     "ID": 9,
