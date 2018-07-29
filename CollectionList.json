@@ -8,7 +8,8 @@
     "Github": "https://github.com/ItsMeKevin1227/TheF2E/tree/master/01TodoList",
     "SkillTag": ["Pug", "Scss", "Vue.js"],
     "IsFinish": true,
-    "BgImg": "./img/01TodoList.png"
+    "BgImg": "./img/01TodoList.png",
+    "PracticeTag": "Pug"
   },
   {
     "ID": 2,
@@ -17,9 +18,10 @@
     "Design": "https://bit.ly/2xWPXWN",
     "FinishDate": "2018/6/14",
     "Github": "https://github.com/ItsMeKevin1227/TheF2E/tree/master/02Filter",
-    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "Vuex"],
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "VueX"],
     "IsFinish": true,
-    "BgImg": "./img/02filter.png"
+    "BgImg": "./img/02filter.png",
+    "PracticeTag": "VueX"
   },
   {
     "ID": 3,
@@ -29,9 +31,10 @@
     "FinishDate": "2018/6/22",
     "Github":
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/03AdminOrder",
-    "SkillTag": ["Pug", "Scss", "Vue.js", "Vue-Router", "V-charts"],
+    "SkillTag": ["Pug", "Scss", "Vue.js", "Vue-Router", "V-Charts"],
     "IsFinish": true,
-    "BgImg": "./img/03AdminOrder.png"
+    "BgImg": "./img/03AdminOrder.png",
+    "PracticeTag": "V-Charts"
   },
   {
     "ID": 4,
@@ -43,7 +46,8 @@
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/04ProductGall",
     "SkillTag": ["Scss"],
     "IsFinish": true,
-    "BgImg": "./img/04ProductGallery.png"
+    "BgImg": "./img/04ProductGallery.png",
+    "PracticeTag": "Grid"
   },
   {
     "ID": 5,
@@ -55,7 +59,8 @@
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/05ComicViewer",
     "SkillTag": ["Scss", "Vue.js", "Vue-Router"],
     "IsFinish": true,
-    "BgImg": "./img/05comic.png"
+    "BgImg": "./img/05comic.png",
+    "PracticeTag": "Vue-Router"
   },
   {
     "ID": 6,
@@ -65,9 +70,10 @@
     "FinishDate": "2018/7/13",
     "Github":
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/06Validation",
-    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "vee-validate"],
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "Vee-Validate"],
     "IsFinish": true,
-    "BgImg": "./img/06validation.png"
+    "BgImg": "./img/06validation.png",
+    "PracticeTag": "Vee-Validate"
   },
   {
     "ID": 7,
@@ -79,7 +85,8 @@
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/07CanvasGame",
     "SkillTag": ["Phaser.js", "Canvas"],
     "IsFinish": true,
-    "BgImg": "./img/07CanvasGame.png"
+    "BgImg": "./img/07CanvasGame.png",
+    "PracticeTag": "Phaser.js"
   },
   {
     "ID": 8,
@@ -91,7 +98,8 @@
       "https://github.com/ItsMeKevin1227/TheF2E/tree/master/08ParallaxScrolling",
     "SkillTag": ["Vue.js", "Vue-Router", "TweenMax", "TweenLineMax"],
     "IsFinish": true,
-    "BgImg": "./img/08ParallaxScrolling.png"
+    "BgImg": "./img/08ParallaxScrolling.png",
+    "PracticeTag": "TweenMax"
   },
   {
     "ID": 9,

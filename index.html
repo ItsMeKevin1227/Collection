@@ -36,11 +36,12 @@
           if (res.data[i].IsFinish) {
             container.innerHTML += `
             <div id="listItem${i + 1}"
-              class="listItem">
+              class="listItem"
+              data-tag="${res.data[i].PracticeTag}">
               <div class="image" style="background-image: url('${res.data[i].BgImg}')"></div>
               <h3>${res.data[i].Title}</h3>
-              <p>使用技術: ${res.data[i].SkillTag}</p>
-              <p>完成時間: ${res.data[i].FinishDate}</p>
+              <p>使用技術: <br><span>${res.data[i].SkillTag.join(', ')}</span></p>
+              <p>完成時間: <span>${res.data[i].FinishDate}</span></p>
               <div>
                 <a target="_blank" href="${res.data[i].Demo}">DEMO</a>
                 <a target="_blank" href="${res.data[i].Design}">Design</a>
