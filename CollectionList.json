@@ -104,11 +104,15 @@
   {
     "ID": 9,
     "Title": "Week9",
-    "Demo": "",
-    "Design": "",
-    "FinishDate": "",
-    "Github": "",
-    "SkillTag": "",
-    "IsFinish": false
+    "Demo": "http://itsmekevin1227.nctu.me/09_F2E_SkillTree/#/",
+    "Design":
+      "https://xd.adobe.com/spec/912f916f-0b05-49ae-66e8-b42b299c19b7-e71e/",
+    "FinishDate": "2018/08/02",
+    "Github":
+      "https://github.com/ItsMeKevin1227/TheF2E/tree/master/09SkillTree",
+    "SkillTag": ["Vue.js", "Vue-Router", "Scss"],
+    "IsFinish": true,
+    "BgImg": "./img/09SkillTree.png",
+    "PracticeTag": "Vue.js"
   }
 ]
