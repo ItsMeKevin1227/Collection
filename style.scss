@@ -8,7 +8,7 @@ $title: 42px;
 body {
   background-color: $background;
   div {
-    font-family: Microsoft JhengHei, Tahoma;
+    font-family: Tahoma, Microsoft JhengHei;
   }
   a {
     display: block;
@@ -45,12 +45,20 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    a {
-      margin-right: 20px;
-      margin-left: 20px;
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3),
-        0 6px 20px 0 rgba(0, 0, 0, 0.28);
-    }
+  }
+  a {
+    margin-right: 20px;
+    margin-left: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.28);
+  }
+  .bgImg {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-image: url(../img/Certificate.png);
+    background-size: cover;
+    background-position: center top;
+    width: 22%;
+    padding-top: 18%;
   }
 }
 #container {
